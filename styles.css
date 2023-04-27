@@ -1,11 +1,16 @@
 /*  your css code here. If applicable */
+
 #animal-photos{
 	background-color: grey;
+	padding: 0px 5px 10px;
+	border: 0px;
+	border-radius: 5px; 
 }
 #animal-photos #photo-heading
 {
 	text-align: center;
 	color: white;
+	text-size: 
 }
 #animal-photos #photos
 {
@@ -14,8 +19,9 @@
 	flex-wrap: wrap;
 }
 .images{
-	height:20px;
+	height:120px;
 	width: 30%;
 	border: 0px;
 	border-radius: 5px;
+	margin: 10px;
 }
